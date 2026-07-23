@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Arda%20Zeybek&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Arda%20Zeybek&fontSize=55&fontColor=ffffff&fontAlignY=42" alt="header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+web+apps+with+AI;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
