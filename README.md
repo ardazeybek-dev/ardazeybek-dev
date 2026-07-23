@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Arda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+web+apps+with+AI;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </p>
 
 ---
