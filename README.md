@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+web+apps+with+AI;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ardazeybek-dev&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -51,15 +47,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ardazeybek-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardazeybek-dev&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
+---
+
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardazeybek-dev&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ardazeybek-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
 
 ---
@@ -73,6 +82,4 @@
 </p>
 
 <p align="center"><i>Complexity is easy; simplicity takes courage. 🚀</i></p>
-
-<!-- Profile README • ardazeybek-dev -->
 
