@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arda%20Zeybek&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Arda%20Zeybek&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+web+apps+with+AI;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
@@ -77,5 +77,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+building+cool+things+%F0%9F%9A%80;Complexity+is+easy%3B+simplicity+takes+courage" alt="footer typing animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer banner" />
 
