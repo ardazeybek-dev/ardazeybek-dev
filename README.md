@@ -73,5 +73,7 @@
   <!-- <a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
 </p>
 
-<p align="center"><i>Complexity is easy; simplicity takes courage. 🚀</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+building+cool+things+%F0%9F%9A%80;Complexity+is+easy%3B+simplicity+takes+courage" alt="footer typing animation" />
+</p>
 
