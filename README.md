@@ -12,6 +12,7 @@
 
 - 🎓 Computer programming student & full-stack developer
 - 🚀 I build full-stack web apps, automation bots, and AI-integrated tools
+- 📦 Author of **[trkit](https://pypi.org/project/trkit/)** on PyPI — `pip install trkit`
 - 🧠 Comfortable across **Python**, **Node.js**, **React / Next.js**, and cloud AI APIs
 - 🐧 Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser
 
@@ -31,6 +32,8 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,6 +44,7 @@
 
 | Project | Description | Live |
 | --- | --- | --- |
+| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [PyPI](https://pypi.org/project/trkit/) |
 | 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | — |
 | 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Role-based panel with RabbitMQ RPC, PostgreSQL & Gemini AI | — |
 | 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | — |
@@ -80,4 +84,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer banner" />
-
