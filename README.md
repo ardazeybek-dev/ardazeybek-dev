@@ -14,7 +14,7 @@
 - 🚀 I build full-stack web apps, automation bots, and AI-integrated tools
 - 📦 Author of **[trkit](https://pypi.org/project/trkit/)** on PyPI — `pip install trkit`
 - 🧠 Comfortable across **Python**, **Node.js**, **React / Next.js**, and cloud AI APIs
-- 🐧 Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser
+- 🏎️ Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser
 
 ---
 
@@ -44,12 +44,12 @@
 
 | Project | Description | Live |
 | --- | --- | --- |
-| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [PyPI](https://pypi.org/project/trkit/) |
+| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
+| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | — |
 | 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | — |
-| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Role-based panel with RabbitMQ RPC, PostgreSQL & Gemini AI | — |
-| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | — |
 | 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit | [Demo](https://kitt-arda.shipstatic.com) |
 | 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | Penguins' Magical World — fun interactive site | [Demo](https://penguen-arda.shipstatic.com) |
+| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | — |
 
 ---
 
@@ -75,8 +75,7 @@
 
 <p align="center">
   <a href="mailto:ardazybk18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <!-- LinkedIn / kişisel siten varsa aşağıdaki satırı düzenle: -->
-  <!-- <a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
+  <a href="https://www.linkedin.com/in/seyid-arda-zeybek-01a6b43aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 <p align="center">
