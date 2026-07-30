@@ -45,11 +45,11 @@
 | Project | Description | Live |
 | --- | --- | --- |
 | 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
-| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | — |
-| 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | — |
+| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
+| 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
 | 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit | [Demo](https://kitt-arda.shipstatic.com) |
 | 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | Penguins' Magical World — fun interactive site | [Demo](https://penguen-arda.shipstatic.com) |
-| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | — |
+| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
 
 ---
 
