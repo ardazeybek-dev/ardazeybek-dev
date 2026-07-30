@@ -45,11 +45,11 @@
 | Project | Description | Live |
 | --- | --- | --- |
 | 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
-| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://microservice-management-panel.github.io/) |
-| 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ai-prompt-studio.github.io/) |
+| 🧩 [microservice-management-panel](https://github.com/microservice-management-panel/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://microservice-management-panel.github.io/) |
+| 🤖 [AI-Prompt-Studio](https://github.com/ai-prompt-studio/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ai-prompt-studio.github.io/) |
 | 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit | [Demo](https://kitt-arda.shipstatic.com) |
 | 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | Penguins' Magical World — fun interactive site | [Demo](https://penguen-arda.shipstatic.com) |
-| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://playwright-web-automation.github.io/) |
+| 🎭 [playwright-web-automation](https://github.com/playwright-web-automation/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://playwright-web-automation.github.io/) |
 
 ---
 
