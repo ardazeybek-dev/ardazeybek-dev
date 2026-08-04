@@ -1,12 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  # Her 12 saatte bir güncelle
+  # Refresh every 12 hours
   schedule:
     - cron: "0 */12 * * *"
   # Elle tetiklenebilir
   workflow_dispatch:
-  # main'e her push'ta yeniden üret
+  # Regenerate on every push to main
   push:
     branches:
       - main
