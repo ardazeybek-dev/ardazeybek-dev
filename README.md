@@ -13,8 +13,9 @@
 - 🎓 Computer programming student & full-stack developer
 - 🚀 I build full-stack web apps, automation bots, and AI-integrated tools
 - 📦 Author of **[trkit](https://pypi.org/project/trkit/)** on PyPI — `pip install trkit`
-- 🧠 Comfortable across **Python**, **Node.js**, **React / Next.js**, and cloud AI APIs
-- 🏎️ Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser
+- 🧮 And of **[bordro](https://github.com/ardazeybek-dev/bordro)**, a TypeScript payroll library that computes twelve months of cumulative income tax
+- 🧠 Comfortable across **Python**, **Node.js**, **TypeScript**, **React / Next.js**, and cloud AI APIs
+- 🏎️ Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser — and a drum machine that synthesises every sound in code
 
 ---
 
@@ -25,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -44,12 +46,14 @@
 
 | Project | Description | Live |
 | --- | --- | --- |
-| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 105 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
+| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 107 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
+| 🧮 [bordro](https://github.com/ardazeybek-dev/bordro) | Turkish payroll library in TypeScript — gross↔net, employer cost, and the twelve-month cumulative income tax most calculators skip. Zero dependencies, 40 tests | [Demo](https://ardazeybek-dev.github.io/bordro/) |
 | 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
 | 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
-| 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit | [Demo](https://kitt-arda.shipstatic.com) |
-| 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | Penguins' Magical World — fun interactive site | [Demo](https://penguen-arda.shipstatic.com) |
+| 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit — LLaMA-3 brain, physics pedals, everything synthesised in the browser | [Demo](https://kitt-arda.shipstatic.com) |
+| 🥁 [ritim](https://github.com/ardazeybek-dev/ritim) | Browser drum machine and step sequencer — one file, no dependencies, every sound synthesised in code, songs exportable as WAV | [Demo](https://ardazeybek-dev.github.io/ritim/) |
 | 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
+| 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | The Magical World of Penguins — a fun, single-file interactive site | [Demo](https://penguen-arda.shipstatic.com) |
 
 ---
 
