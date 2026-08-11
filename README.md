@@ -52,6 +52,8 @@
 | 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
 | 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit — LLaMA-3 brain, physics pedals, everything synthesised in the browser | [Demo](https://kitt-arda.shipstatic.com) |
 | 🥁 [ritim](https://github.com/ardazeybek-dev/ritim) | Browser drum machine and step sequencer — one file, no dependencies, every sound synthesised in code, songs exportable as WAV | [Demo](https://ardazeybek-dev.github.io/ritim/) |
+| 🚀 [star-hunt](https://github.com/ardazeybek-dev/star-hunt) | Wave-based space shooter in a single HTML file — three enemy types, a boss every fifth wave, canvas paths instead of sprites and every sound synthesised at runtime | [Play](https://ardazeybek-dev.github.io/star-hunt/) |
+| 🐦 [flock-universe](https://github.com/ardazeybek-dev/flock-universe) | Interactive boids flocking simulation — up to 4,000 agents at 60 fps, kept out of O(n²) by a spatial hash grid and 26 batched draw calls per frame | [Demo](https://ardazeybek-dev.github.io/flock-universe/) |
 | 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
 | 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | The Magical World of Penguins — a fun, single-file interactive site | [Demo](https://penguen-arda.shipstatic.com) |
 
