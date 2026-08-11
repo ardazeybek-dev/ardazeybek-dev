@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Arda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Open-source+tooling+for+T%C3%BCrkiye;Python+%7C+Node.js+%7C+React+%7C+Next.js" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer programming student & full-stack developer
-- 🚀 I build full-stack web apps, automation bots, and AI-integrated tools
-- 📦 Author of **[trkit](https://pypi.org/project/trkit/)** on PyPI — `pip install trkit`
-- 🧮 And of **[bordro](https://github.com/ardazeybek-dev/bordro)**, a TypeScript payroll library that computes twelve months of cumulative income tax
+- 🧰 I write the tools Türkiye-facing software keeps needing and nobody has published: correct Turkish casing, national ID and IBAN validation, payroll tax, personal-data scanning
+- 📦 Two packages on PyPI — **[trkit](https://pypi.org/project/trkit/)** and **[kvkk](https://pypi.org/project/kvkk/)** — plus **[bordro](https://github.com/ardazeybek-dev/bordro)** in TypeScript
+- 🚀 Also full-stack web apps, automation bots and AI-integrated tools
 - 🧠 Comfortable across **Python**, **Node.js**, **TypeScript**, **React / Next.js**, and cloud AI APIs
 - 🏎️ Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser — and a drum machine that synthesises every sound in code
 
@@ -42,20 +42,35 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📦 Published Packages
+
+Software other people install and depend on. Every one of them exists because
+the problem is specific to Türkiye and nobody had packaged the answer.
+
+| Package | What it solves | Install |
+| --- | --- | --- |
+| **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data — TCKN, IBAN, VKN, payment cards, phones — in files, logs and database dumps. Checksum-verified, so an order number never becomes an incident. The report itself is masked, so it never becomes the second leak. Four masking strategies, including one that emits *valid* fake values for staging databases | `pip install kvkk` · [PyPI](https://pypi.org/project/kvkk/) |
+| **[trkit](https://github.com/ardazeybek-dev/trkit)** | Python's `"istanbul".upper()` returns `ISTANBUL` and quietly corrupts every Turkish name and city it touches. trkit gets the dotted/dotless `i` right, and validates TCKN, IBAN and licence plates. 107 tests, CI on Linux + Windows across Python 3.10–3.13 | `pip install trkit` · [Demo](https://trkit-arda.shipstatic.com) |
+| **[bordro](https://github.com/ardazeybek-dev/bordro)** | Turkish payroll in TypeScript — gross↔net, employer cost, and the twelve-month cumulative income tax that almost every online calculator gets wrong. Zero dependencies, 40 tests | [Demo](https://ardazeybek-dev.github.io/bordro/) |
+
+## 🧩 Applications
 
 | Project | Description | Live |
 | --- | --- | --- |
-| 📦 [trkit](https://github.com/ardazeybek-dev/trkit) | Turkish text utilities & Türkiye-specific validators — published to PyPI, 107 tests, CI on Linux + Windows across Python 3.10–3.13 | [Demo](https://trkit-arda.shipstatic.com) · [PyPI](https://pypi.org/project/trkit/) |
-| 🧮 [bordro](https://github.com/ardazeybek-dev/bordro) | Turkish payroll library in TypeScript — gross↔net, employer cost, and the twelve-month cumulative income tax most calculators skip. Zero dependencies, 40 tests | [Demo](https://ardazeybek-dev.github.io/bordro/) |
-| 🧩 [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
-| 🤖 [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
-| 🏎️ [K.I.T.T.](https://github.com/ardazeybek-dev/K.I.T.T) | Interactive retro-futuristic Knight Rider cockpit — LLaMA-3 brain, physics pedals, everything synthesised in the browser | [Demo](https://kitt-arda.shipstatic.com) |
-| 🥁 [ritim](https://github.com/ardazeybek-dev/ritim) | Browser drum machine and step sequencer — one file, no dependencies, every sound synthesised in code, songs exportable as WAV | [Demo](https://ardazeybek-dev.github.io/ritim/) |
-| 🚀 [star-hunt](https://github.com/ardazeybek-dev/star-hunt) | Wave-based space shooter in a single HTML file — three enemy types, a boss every fifth wave, canvas paths instead of sprites and every sound synthesised at runtime | [Play](https://ardazeybek-dev.github.io/star-hunt/) |
-| 🐦 [flock-universe](https://github.com/ardazeybek-dev/flock-universe) | Interactive boids flocking simulation — up to 4,000 agents at 60 fps, kept out of O(n²) by a spatial hash grid and 26 batched draw calls per frame | [Demo](https://ardazeybek-dev.github.io/flock-universe/) |
-| 🎭 [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
-| 🐧 [Penguin](https://github.com/ardazeybek-dev/Penguin) | The Magical World of Penguins — a fun, single-file interactive site | [Demo](https://penguen-arda.shipstatic.com) |
+| [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
+| [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
+| [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
+
+## 🎨 Built in the Browser
+
+Single HTML files, no dependencies, no assets — every sound synthesised and
+every shape drawn in code.
+
+[**K.I.T.T.**](https://github.com/ardazeybek-dev/K.I.T.T) — Knight Rider cockpit with an LLaMA-3 brain ([demo](https://kitt-arda.shipstatic.com)) ·
+[**ritim**](https://github.com/ardazeybek-dev/ritim) — drum machine and step sequencer, exports WAV ([demo](https://ardazeybek-dev.github.io/ritim/)) ·
+[**flock-universe**](https://github.com/ardazeybek-dev/flock-universe) — 4,000 boids at 60 fps via a spatial hash grid ([demo](https://ardazeybek-dev.github.io/flock-universe/)) ·
+[**star-hunt**](https://github.com/ardazeybek-dev/star-hunt) — wave-based shooter, canvas paths instead of sprites ([play](https://ardazeybek-dev.github.io/star-hunt/)) ·
+[**Penguin**](https://github.com/ardazeybek-dev/Penguin) — the magical world of penguins ([demo](https://penguen-arda.shipstatic.com))
 
 ---
 
