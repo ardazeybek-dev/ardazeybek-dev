@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://pypi.org/project/trkit/"><img src="https://img.shields.io/badge/PyPI-2%20packages-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="pypi packages" /></a>
-  <img src="https://img.shields.io/badge/projects-12%20public-6C63FF?style=flat-square&logo=github&logoColor=white" alt="public projects" />
-  <img src="https://img.shields.io/badge/tests-350%2B%20passing-brightgreen?style=flat-square&logo=pytest&logoColor=white" alt="tests" />
+  <img src="https://img.shields.io/badge/projects-13%20public-6C63FF?style=flat-square&logo=github&logoColor=white" alt="public projects" />
+  <img src="https://img.shields.io/badge/tests-500%2B%20passing-brightgreen?style=flat-square&logo=pytest&logoColor=white" alt="tests" />
   <img src="https://komarev.com/ghpvc/?username=ardazeybek-dev&style=flat-square&color=8E2DE2&label=profile+views" alt="profile views" />
 </p>
 
@@ -21,8 +21,9 @@
 - 🧰 I write the tools Türkiye-facing software keeps needing and nobody has published: correct Turkish casing, national ID and IBAN validation, payroll tax, personal-data scanning
 - 📦 Two packages on PyPI — **[trkit](https://pypi.org/project/trkit/)** and **[kvkk](https://pypi.org/project/kvkk/)** — plus **[bordro](https://github.com/ardazeybek-dev/bordro)** in TypeScript
 - 🖥️ **[Aktar](https://github.com/ardazeybek-dev/aktar)** runs at a paying customer, turning two working days of manual data entry into a few minutes every month
+- 🖱️ **[ChatterFix](https://github.com/ardazeybek-dev/chatterfix)** is a Windows tray app in C# that saves a worn mouse from the bin: it drops the phantom second click a bouncing switch sends and keeps held buttons from letting go
 - 🚀 Also full-stack web apps, automation bots and AI-integrated tools
-- 🧠 Comfortable across **Python**, **Node.js**, **TypeScript**, **React / Next.js**, and cloud AI APIs
+- 🧠 Comfortable across **Python**, **Node.js**, **TypeScript**, **C# / .NET**, **React / Next.js**, and cloud AI APIs
 - 🏎️ Fun fact: I once built an interactive **Knight Rider (K.I.T.T.)** cockpit right in the browser — and a drum machine that synthesises every sound in code
 
 ---
@@ -35,6 +36,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -105,6 +108,7 @@ the problem is specific to Türkiye and nobody had packaged the answer.
 | Project | Description | Live |
 | --- | --- | --- |
 | [aktar](https://github.com/ardazeybek-dev/aktar) | Desktop app in production at a paying customer: bank statement → Turkish fuzzy name matching → automated panel entry. Python, Playwright, Tkinter, 200 tests | [Download](https://github.com/ardazeybek-dev/aktar/releases) |
+| [chatterfix](https://github.com/ardazeybek-dev/chatterfix) | Windows tray app that sits between the mouse and every application: drops the phantom double click of a worn switch, repairs held buttons that let go, and switches thresholds per focused app. C# / .NET 10, low-level mouse hook, 46 tests | [Install](https://github.com/ardazeybek-dev/chatterfix#install) |
 | [microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel) | Full-stack panel with database-driven RBAC, RabbitMQ RPC, PostgreSQL triggers, Redis caching and a pgvector RAG pipeline | [Demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
 | [AI-Prompt-Studio](https://github.com/ardazeybek-dev/AI-Prompt-Studio) | Turns simple ideas into professional AI image prompts (FastAPI + React + Groq) | [Demo](https://ardazeybek-dev.github.io/AI-Prompt-Studio/) |
 | [playwright-web-automation](https://github.com/ardazeybek-dev/playwright-web-automation) | Python + Playwright web automation bot | [Overview](https://ardazeybek-dev.github.io/playwright-web-automation/) |
@@ -122,13 +126,10 @@ every shape drawn in code.
 
 ---
 
-## 📊 GitHub Stats
+## 🔄 Latest Activity
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ardazeybek-dev&theme=tokyonight&hide_border=true&border_radius=8&ring=6C63FF&fire=8E2DE2&currStreakLabel=6C63FF&date_format=j%20M%5B%20Y%5D" alt="contribution streak" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ardazeybek-dev/chatterfix?style=flat-square&label=chatterfix&color=6C63FF" alt="chatterfix last commit" />
   <img src="https://img.shields.io/github/last-commit/ardazeybek-dev/aktar?style=flat-square&label=aktar&color=6C63FF" alt="aktar last commit" />
   <img src="https://img.shields.io/github/last-commit/ardazeybek-dev/microservice-management-panel?style=flat-square&label=microservice-panel&color=6C63FF" alt="panel last commit" />
   <img src="https://img.shields.io/github/last-commit/ardazeybek-dev/trkit?style=flat-square&label=trkit&color=6C63FF" alt="trkit last commit" />
