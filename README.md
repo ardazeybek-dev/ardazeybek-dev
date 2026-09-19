@@ -151,7 +151,7 @@ every shape drawn in code.
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+  <img width="85%" src="assets/quotes.svg" alt="rotating programming quotes" />
 </p>
 
 ---
