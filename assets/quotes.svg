@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="title">
+  <title id="title">Rotating programming quotes</title>
+  <defs>
+    <clipPath id="card"><rect width="800" height="200" rx="10"/></clipPath>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#bf91f3"/>
+      <stop offset=".5" stop-color="#70a5fd"/>
+      <stop offset="1" stop-color="#38bdae"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .t { font: italic 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #38bdae; }
+    .a { font: italic 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; text-anchor: end; }
+    .mark { font: bold 72px Georgia, 'Times New Roman', serif; fill: #bf91f3; transform-box: fill-box; transform-origin: center; animation: float 3s ease-in-out infinite; }
+    .l, .a { opacity: 0; animation: in 36s cubic-bezier(.2, .7, .2, 1) infinite both; }
+    .a { animation-name: in-author; }
+    .progress { transform-box: fill-box; transform-origin: left; animation: fill 6s linear infinite; }
+
+    /* six quotes, 6s each: every quote owns one sixth of the cycle */
+    @keyframes in {
+      0%, 1.5% { opacity: 0; transform: translateY(14px); }
+      4%, 14% { opacity: 1; transform: translateY(0); }
+      16%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes in-author {
+      0%, 3% { opacity: 0; transform: translateX(24px); }
+      6%, 14% { opacity: 1; transform: translateX(0); }
+      16%, 100% { opacity: 0; transform: translateX(0); }
+    }
+    @keyframes fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes float { 50% { transform: translateY(-5px) rotate(-6deg); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .mark, .l, .a, .progress { animation: none; }
+      .q0 .l, .q0 .a { opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="800" height="200" fill="#1a1b27"/>
+    <text class="mark" x="26" y="84">“</text>
+
+    <g class="q0">
+      <text class="t l" x="76" y="70" style="animation-delay:0s">I make mistakes because I’m always operating at my limit.</text>
+      <text class="t l" x="76" y="100" style="animation-delay:.12s">If I only stay in comfortable territory all the time,</text>
+      <text class="t l" x="76" y="130" style="animation-delay:.24s">that’s not so much fun.</text>
+      <text class="a" x="764" y="172" style="animation-delay:0s">— Donald Knuth</text>
+    </g>
+    <g class="q1">
+      <text class="t l" x="76" y="100" style="animation-delay:6s">Talk is cheap. Show me the code.</text>
+      <text class="a" x="764" y="172" style="animation-delay:6s">— Linus Torvalds</text>
+    </g>
+    <g class="q2">
+      <text class="t l" x="76" y="85" style="animation-delay:12s">Any fool can write code that a computer can understand.</text>
+      <text class="t l" x="76" y="115" style="animation-delay:12.12s">Good programmers write code that humans can understand.</text>
+      <text class="a" x="764" y="172" style="animation-delay:12s">— Martin Fowler</text>
+    </g>
+    <g class="q3">
+      <text class="t l" x="76" y="100" style="animation-delay:18s">Simplicity is prerequisite for reliability.</text>
+      <text class="a" x="764" y="172" style="animation-delay:18s">— Edsger W. Dijkstra</text>
+    </g>
+    <g class="q4">
+      <text class="t l" x="76" y="85" style="animation-delay:24s">Programs must be written for people to read,</text>
+      <text class="t l" x="76" y="115" style="animation-delay:24.12s">and only incidentally for machines to execute.</text>
+      <text class="a" x="764" y="172" style="animation-delay:24s">— Abelson &amp; Sussman, SICP</text>
+    </g>
+    <g class="q5">
+      <text class="t l" x="76" y="100" style="animation-delay:30s">Make it work, make it right, make it fast.</text>
+      <text class="a" x="764" y="172" style="animation-delay:30s">— Kent Beck</text>
+    </g>
+
+    <rect class="progress" x="0" y="196" width="800" height="4" fill="url(#bar)"/>
+  </g>
+</svg>
