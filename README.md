@@ -71,7 +71,7 @@ sequenceDiagram
 
 ## 📦 Packages
 
-| | |
+| Package | What it does |
 | --- | --- |
 | **[trkit](https://github.com/ardazeybek-dev/trkit)** | Correct Turkish casing (`i` → `İ`), TCKN, IBAN and plate validation · `pip install trkit` |
 | **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data in files, logs and dumps · `pip install kvkk` |
@@ -79,7 +79,7 @@ sequenceDiagram
 
 ## 🧩 Apps
 
-| | |
+| App | What it does |
 | --- | --- |
 | **[aktar](https://github.com/ardazeybek-dev/aktar)** | Reads a bank statement, matches payments to people, fills the web panel · in use at a customer |
 | **[chatterfix](https://github.com/ardazeybek-dev/chatterfix)** | Windows tray app that fixes the phantom double click of a worn mouse · C# / .NET |
