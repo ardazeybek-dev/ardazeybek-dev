@@ -114,10 +114,32 @@ More projects on my [repositories page](https://github.com/ardazeybek-dev?tab=re
 
 ---
 
+## 🐍 Watch the Snake Eat My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ardazeybek-dev/ardazeybek-dev/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img width="85%" src="assets/quotes.svg" alt="rotating programming quotes" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ardazybk18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/seyid-arda-zeybek-01a6b43aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://www.npmjs.com/~ardazeybek-dev"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+building+cool+things+%F0%9F%9A%80;Complexity+is+easy%3B+simplicity+takes+courage" alt="footer typing animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer banner" />
