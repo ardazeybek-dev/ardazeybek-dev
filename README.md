@@ -100,7 +100,7 @@ sequenceDiagram
 | **[trkit](https://github.com/ardazeybek-dev/trkit)** | Correct Turkish casing (`i` → `İ`), TCKN, IBAN and plate validation · `pip install trkit` |
 | **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data in files, logs and dumps · `pip install kvkk` |
 | **[bordro](https://github.com/ardazeybek-dev/bordro)** | Turkish payroll: gross ↔ net with cumulative income tax · `npm install bordro` |
-| **[shapesmith](https://github.com/ardazeybek-dev/shapesmith)** | JSON samples → TypeScript, Zod and JSON Schema; Rust compiled to WebAssembly · [playground](https://ardazeybek-dev.github.io/shapesmith/) |
+| **[shapesmith](https://github.com/ardazeybek-dev/shapesmith)** | JSON samples → TypeScript, Zod and JSON Schema; Rust compiled to WebAssembly · [playground](https://ardazeybek-dev.github.io/shapesmith/) · `npm install shapesmith` |
 
 ## 🧩 Apps
 
