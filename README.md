@@ -135,6 +135,7 @@ More projects on my [repositories page](https://github.com/ardazeybek-dev?tab=re
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ardazybk18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/seyid-arda-zeybek-01a6b43aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://pypi.org/user/ardazeybek-dev/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi" /></a>
   <a href="https://www.npmjs.com/~ardazeybek-dev"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
 </p>
 
