@@ -9,7 +9,7 @@
 <p align="center">
   Full-stack developer at <b>Tech Talent Space</b>, building <a href="https://www.qahirescout.com">Qalentis</a> &mdash;
   an AI-powered hiring and HR performance platform. On the side I build open-source tools in
-  Rust, Go, Zig, F#, Java, C# and Python: every repo is tested in CI, most have a live demo.
+  Rust, Go, Zig, F#, Java, C# and Python, shipped with tests, CI and, where it fits, a live demo.
 </p>
 
 <p align="center">
