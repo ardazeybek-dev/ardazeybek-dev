@@ -3,12 +3,13 @@
 <h1 align="center">Hi there, I'm Arda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;Desktop+App+Developer;Automation+%26+Open-Source+Tools" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;LLM+Systems+%26+AI+Products;Rust+%2B+WebAssembly;Distributed+Systems+%26+CRDTs;Open-Source+Tools" alt="typing intro" />
 </p>
 
 <p align="center">
-  Computer programming student and full-stack developer. I build backend services, automation that
-  runs at real customers, and small open-source tools for software made in Türkiye.
+  Full-stack developer at <b>Tech Talent Space</b>, building <a href="https://www.qahirescout.com">Qalentis</a> &mdash;
+  an AI-powered hiring and HR performance platform. On the side I build open-source tools in
+  Rust, Go, Zig, F#, Java, C# and Python: every repo is tested in CI, most have a live demo.
 </p>
 
 <p align="center">
@@ -16,6 +17,9 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -39,6 +43,17 @@
 </p>
 
 ---
+
+## 🔬 Systems & Algorithms — live in the browser
+
+| Project | What it does | |
+| --- | --- | --- |
+| **[kilim](https://github.com/ardazeybek-dev/kilim)** | Conflict-free collaborative editing: an RGA sequence CRDT in Rust → WebAssembly | [demo](https://ardazeybek-dev.github.io/kilim/) |
+| **[raft-lab](https://github.com/ardazeybek-dev/raft-lab)** | Raft consensus from scratch in Go, 500-seed deterministic fault injection | [demo](https://ardazeybek-dev.github.io/raft-lab/) |
+| **[chunkmap](https://github.com/ardazeybek-dev/chunkmap)** | Finds duplicated bytes across and *inside* files: FastCDC + BLAKE3, one static Zig binary | [report](https://ardazeybek-dev.github.io/chunkmap/) |
+| **[subdrift](https://github.com/ardazeybek-dev/subdrift)** | Fixes out-of-sync subtitles: FFT cross-correlation, framerate drift, Viterbi for cut scenes · F# | [report](https://ardazeybek-dev.github.io/subdrift/) |
+| **[twinlens](https://github.com/ardazeybek-dev/twinlens)** | Near-duplicate photos via pHash + BK-tree, keeps the best shot, fully undoable · Python | [report](https://ardazeybek-dev.github.io/twinlens/) |
+| **[microservice-management-panel](https://github.com/ardazeybek-dev/microservice-management-panel)** | Full stack: dynamic RBAC, RabbitMQ RPC, pgvector RAG, 99 integration tests | [demo](https://ardazeybek-dev.github.io/microservice-management-panel/) |
 
 ## ⭐ Featured — [spring-kafka-orders](https://github.com/ardazeybek-dev/spring-kafka-orders)
 
@@ -100,6 +115,7 @@ sequenceDiagram
 | **[trkit](https://github.com/ardazeybek-dev/trkit)** | Correct Turkish casing (`i` → `İ`), TCKN, IBAN and plate validation · `pip install trkit` |
 | **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data in files, logs and dumps · `pip install kvkk` |
 | **[bordro](https://github.com/ardazeybek-dev/bordro)** | Turkish payroll: gross ↔ net with cumulative income tax · `npm install bordro` |
+| **[kilim](https://github.com/ardazeybek-dev/kilim)** | Collaborative-editing CRDT for the browser, Rust → WebAssembly · `npm install @ardazeybek-dev/kilim` |
 | **[shapesmith](https://github.com/ardazeybek-dev/shapesmith)** | JSON samples → TypeScript, Zod and JSON Schema; Rust compiled to WebAssembly · [playground](https://ardazeybek-dev.github.io/shapesmith/) · `npm install shapesmith` |
 
 ## 🧩 Apps
