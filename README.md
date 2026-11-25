@@ -108,13 +108,26 @@ sequenceDiagram
 
 ---
 
-## 📦 Packages
+## 🇹🇷 Türkiye toolkit
+
+Small, tested libraries for the Turkish data that general-purpose tools get wrong —
+each one useful within ten seconds of installing it.
+
+| Package | What it does | Install |
+| --- | --- | --- |
+| **[trkit](https://github.com/ardazeybek-dev/trkit)** | Correct Turkish casing (`i` → `İ`), slugify, TCKN, IBAN and plate validation · Python + CLI | `pip install trkit` |
+| **[trkit-js](https://github.com/ardazeybek-dev/trkit-js)** | The same for JavaScript, plus VKN, phone numbers and Zod schemas | `npm i @ardazeybek-dev/trkit` |
+| **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data in files, logs and dumps, checksum-verified | `pip install kvkk` |
+| **[ekstre](https://github.com/ardazeybek-dev/ekstre)** | Bank statement exports (.xlsx, .xls, .csv) into clean, typed transactions | `pip install ekstre` |
+| **[adres](https://github.com/ardazeybek-dev/adres)** | Free-form addresses into province, district, neighbourhood, street, number, floor, flat | `pip install adres-tr` |
+| **[isgunu](https://github.com/ardazeybek-dev/isgunu)** | Public holidays, arife half days, business-day arithmetic · Python + JS | `pip install isgunu` |
+| **[efatura](https://github.com/ardazeybek-dev/efatura)** | Reads e-Fatura / e-Arşiv (UBL-TR) XML, checks the totals — finds real errors in 8 of GİB's own 30 samples | `pip install efatura-tr` |
+| **[bordro](https://github.com/ardazeybek-dev/bordro)** | Payroll: gross ↔ net with the 12-month cumulative income tax · TypeScript | `npm i bordro` |
+
+## 📦 More packages
 
 | Package | What it does |
 | --- | --- |
-| **[trkit](https://github.com/ardazeybek-dev/trkit)** | Correct Turkish casing (`i` → `İ`), TCKN, IBAN and plate validation · `pip install trkit` |
-| **[kvkk](https://github.com/ardazeybek-dev/kvkk)** | Finds and masks Turkish personal data in files, logs and dumps · `pip install kvkk` |
-| **[bordro](https://github.com/ardazeybek-dev/bordro)** | Turkish payroll: gross ↔ net with cumulative income tax · `npm install bordro` |
 | **[kilim](https://github.com/ardazeybek-dev/kilim)** | Collaborative-editing CRDT for the browser, Rust → WebAssembly · `npm install @ardazeybek-dev/kilim` |
 | **[shapesmith](https://github.com/ardazeybek-dev/shapesmith)** | JSON samples → TypeScript, Zod and JSON Schema; Rust compiled to WebAssembly · [playground](https://ardazeybek-dev.github.io/shapesmith/) · `npm install shapesmith` |
 
